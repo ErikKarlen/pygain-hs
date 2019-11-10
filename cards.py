@@ -13,4 +13,3 @@ data = json.loads(source)
 json_file = open('cards.collectible.json', encoding='utf-8')
 data = json.load(json_file)
 
-print(data[0])
