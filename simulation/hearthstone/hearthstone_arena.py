@@ -1,6 +1,4 @@
 import random
-import json
-import pandas as pd
 
 
 class HearthstoneArena:
