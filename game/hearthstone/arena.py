@@ -15,13 +15,17 @@ class Arena:
             self.deck.append(self.select_deck_card())
 
     def select_class(self):
-        return self._random_class()
+        return [self._random_class()]
 
     def select_deck_card(self):
-        return self._random_arena_card()[0]
+        arena_cards = self.cards.arena_cards_list()
+        card_classes = self.arena_class.copy()
+        card_classes.append('NEUTRAL')
+        arena_cards = arena_cards.loc[arena_cards['cardClass'].isin(card_classes)]
+        return arena_cards.sample(1).index.values[0]
 
-    def _random_class(self):
-        return [random.choice(self.cards.classes_list())]
+    def _random_class(self, samples=1):
+        return random.choice(self.cards.classes_list())
 
     def _random_arena_card(self, samples=1):
         return self.cards.arena_cards_list().sample(samples).index.values

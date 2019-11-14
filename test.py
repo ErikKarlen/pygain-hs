@@ -1,13 +1,13 @@
 import time
-from game.hearthstone import Cards, Arena
+import game.hearthstone as hs
 
 
 # Testing code
-cards = Cards('data/hearthstone/cards.collectible.json')
+cards = hs.Cards('data/hearthstone/cards.collectible.json')
 
 t_start = time.time()
 
-arena = Arena(cards)
+arena = hs.Arena(cards)
 
 arena.simulate_normal()
 

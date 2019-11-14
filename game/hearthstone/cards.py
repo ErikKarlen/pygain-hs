@@ -18,10 +18,11 @@ class Cards:
             self.cards_df = pd.DataFrame(json.loads(source)).set_index('id')
 
     def classes_list(self):
-        return self.cards_df.loc[self.cards_df['type'] == 'HERO']['cardClass'].unique()
+        return pd.Series(self.cards_df.loc[self.cards_df['type'] == 'HERO']['cardClass'].unique())
 
     def arena_cards_list(self):
-        return self.cards_df.loc[self.cards_df['type'].isin(['SPELL', 'MINION', 'ENCHANTMENT', 'WEAPON'])]
+        return self.cards_df.loc[self.cards_df['type'].isin(['SPELL', 'MINION',
+                                                             'ENCHANTMENT', 'WEAPON'])]
 
     def get_card_name(self, card_id):
         return self.cards_df.loc[card_id]['name']
