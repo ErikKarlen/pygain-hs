@@ -1,12 +1,12 @@
 import random
 
 
-class HearthstoneArena:
+class Arena:
 
-    def __init__(self, hearthstone_cards, arena_class=[], deck=[], deck_size=30):
-        self.hearthstone_cards = hearthstone_cards
-        self.arena_class = arena_class  # cardClass string of hero(s)
-        self.deck = deck  # List of card IDs
+    def __init__(self, cards, arena_class=[], deck=[], deck_size=30):
+        self.cards = cards  # Cards object with Hearthstone cards
+        self.arena_class = arena_class  # List of strings with arena run's classes
+        self.deck = deck  # List of card IDs for arena run
         self.deck_size = deck_size
 
     def simulate_normal(self):
@@ -21,7 +21,7 @@ class HearthstoneArena:
         return self._random_arena_card()[0]
 
     def _random_class(self):
-        return random.choice(self.hearthstone_cards.classes_list())
+        return [random.choice(self.cards.classes_list())]
 
     def _random_arena_card(self, samples=1):
-        return self.hearthstone_cards.arena_cards_list().sample(samples).index.values
+        return self.cards.arena_cards_list().sample(samples).index.values

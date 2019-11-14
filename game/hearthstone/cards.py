@@ -3,7 +3,7 @@ import json
 import pandas as pd
 
 
-class HearthstoneCards:
+class Cards:
 
     def __init__(self, cards_file, web_fetch=False):
         # Use local file with card data
@@ -25,3 +25,6 @@ class HearthstoneCards:
 
     def get_card_name(self, card_id):
         return self.cards_df.loc[card_id]['name']
+
+    def get_card_class(self, card_id):
+        return self.cards_df.loc[card_id]['cardClass']
