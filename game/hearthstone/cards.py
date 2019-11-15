@@ -18,7 +18,7 @@ class Cards:
             self.cards_df = pd.DataFrame(json.loads(source))
 
     def classes_list(self):
-        return pd.Series(self.cards_df.loc[self.cards_df['type'] == 'HERO']['cardClass'].unique())
+        return self.cards_df.loc[self.cards_df['type'] == 'HERO']
 
     def get_cards(self, card_class=[], cost=[], card_id=[], rarity=[],
                   set=[], type=[], mechanics=[], attack=[], health=[]):
