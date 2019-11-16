@@ -1,4 +1,5 @@
-import random
+import numpy as np
+import pandas as pd
 
 
 class Arena:
@@ -9,10 +10,10 @@ class Arena:
     NUMBER_CLASSES = 1
     NUMBER_CLASS_OPTIONS = 3
 
-    def __init__(self, cards, arena_class=[], deck=[]):
+    def __init__(self, cards, arena_class=None, deck=None):
         self.cards = cards  # Cards object with Hearthstone cards
-        self.arena_class = arena_class  # List of strings with arena run's classes
-        self.deck = deck  # List of card IDs for arena run
+        self.arena_class = pd.DataFrame(columns=cards.cards_df.columns)  # DataFrame with arena class(es)
+        self.deck = pd.DataFrame(columns=cards.cards_df.columns)  # DataFrame with cards in arena deck
 
     def simulate_normal(self):
         self.arena_class = self.class_selection()
@@ -20,33 +21,28 @@ class Arena:
             self.deck.append(self.deck_card_selection())
 
     def class_selection(self):
-        return random.choice(self.class_options())
+        return self.random_class_options().sample(1)
 
     def deck_card_selection(self):
-        arena_cards = self.cards.get_cards(type=['SPELL', 'MINION', 'WEAPON'])
+        arena_cards = self.cards.get_cards(card_type=['SPELL', 'MINION', 'WEAPON'])
         card_classes = self.arena_class.copy()
         card_classes.append('NEUTRAL')
         arena_cards = arena_cards.loc[arena_cards['cardClass'].isin(card_classes)]
         return arena_cards.sample(1)
 
-    def class_options(self):
-        return self._random_hero(samples=self.NUMBER_CLASS_OPTIONS)
+    def random_class_options(self):
+        all_heroes = self.cards.get_cards(card_type=['HERO'])
+        valid_heroes = all_heroes.loc[all_heroes['cost'].isnull()]
+        unique_classes = all_heroes['cardClass'].unique()
+        unique_valid_classes = list(set(unique_classes) - set(self.arena_class['cardClass'].values))
+        random_classes = np.random.choice(unique_valid_classes, self.NUMBER_CLASS_OPTIONS, replace=False)
 
-    def _random_hero(self, samples=1):
-        if samples < 1:
-            samples = 1
-        elif samples > len(self.cards.classes_list()):
-            samples = len(self.cards.classes_list())
+        random_heroes = pd.DataFrame(columns=all_heroes.columns)
+        for i in range(self.NUMBER_CLASS_OPTIONS):
+            random_hero = valid_heroes.loc[all_heroes['cardClass'] == random_classes[i]].sample(1)
+            random_heroes = random_heroes.append(random_hero)
 
-        all_heroes = self.cards.classes_list()
-        unique_classes = set(all_heroes['cardClass'].unique())
-        random_classes = random.sample(unique_classes, samples)
-        print(random_classes)
-        for i in range(samples):
-            random_heros.append(all_heroes.loc[all_heroes['cardClass'] ==
-                                               random_classes[i]].sample(1))
-        print(random_heros['name'])
-        return random_heros
+        return random_heroes
 
     def _random_arena_card(self, samples=1):
         return self.cards.get_cards(type=['SPELL', 'MINION', 'WEAPON']).sample(samples).index.values

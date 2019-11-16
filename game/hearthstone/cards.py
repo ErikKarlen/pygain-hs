@@ -17,11 +17,8 @@ class Cards:
             source = urlopen(req).read()
             self.cards_df = pd.DataFrame(json.loads(source))
 
-    def classes_list(self):
-        return self.cards_df.loc[self.cards_df['type'] == 'HERO']
-
     def get_cards(self, card_class=[], cost=[], card_id=[], rarity=[],
-                  set=[], type=[], mechanics=[], attack=[], health=[]):
+                  card_set=[], card_type=[], mechanics=[], attack=[], health=[]):
         cards = self.cards_df.copy()
         if card_class:
             cards = cards.loc[cards['cardClass'].isin(card_class)]
@@ -31,10 +28,10 @@ class Cards:
             cards = cards.loc[cards['id'].isin(card_id)]
         if rarity:
             cards = cards.loc[cards['rarity'].isin(rarity)]
-        if set:
-            cards = cards.loc[cards['set'].isin(set)]
-        if type:
-            cards = cards.loc[cards['type'].isin(type)]
+        if card_set:
+            cards = cards.loc[cards['set'].isin(card_set)]
+        if card_type:
+            cards = cards.loc[cards['type'].isin(card_type)]
         if mechanics:
             cards = cards.loc[cards['mechanics'].isin(mechanics)]
         if attack:
