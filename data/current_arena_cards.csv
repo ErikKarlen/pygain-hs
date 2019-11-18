@@ -1,0 +1,936 @@
+Class,Card,Bucket,Half-Bucket
+Hunter,Savannah Highmane,1,0.5
+Paladin,Blessing of Kings,1,0.5
+Paladin,Consecration,1,0.5
+Shaman,Fire Elemental,1,0.5
+Mage,Fireball,1,0.5
+Mage,Flamestrike,1,0.5
+Priest,Mind Control,1,0.5
+Mage,Polymorph,1,0.5
+Rogue,Sap,1,0.5
+Druid,Swipe,1,0.5
+Paladin,Truesilver Champion,1,0.5
+Rogue,Fal'dorei Strider,1,0.5
+Hunter,Flanking Strike,1,0.5
+Priest,Psychic Scream,1,0.5
+Warrior,Restless Mummy,1,0.5
+Warrior,Livewire Lance,1,0.5
+Rogue,Vilespine Slayer,1,0.5
+Paladin,Vinecleaver,1,0.5
+Paladin,Spikeridged Steed,1,0.5
+Mage,Meteor,1,0.5
+Hunter,Eaglehorn Bow,1,1.5
+Shaman,Earth Elemental,1,1.5
+Rogue,Eviscerate,1,1.5
+Warrior,Frothing Berserker,1,1.5
+Warrior,Gorehowl,1,1.5
+Warlock,Siphon Soul,1,1.5
+Mage,Blizzard,1,1.5
+Druid,Power of the Wild,1,1.5
+Warrior,Brawl,1,1.5
+Mage,Pyroblast,1,1.5
+Hunter,Animal Companion,1,1.5
+Hunter,Houndmaster,1,1.5
+Hunter,Kill Command,1,1.5
+Priest,Shadow Word: Death,1,1.5
+Hunter,Crushing Walls,1,1.5
+Priest,Duskbreaker,1,1.5
+Warrior,Lesser Mithril Spellstone,1,1.5
+Shaman,Unstable Evolution,1,1.5
+Warlock,Voidlord,1,1.5
+Rogue,Walk the Plank,1,1.5
+Druid,Oasis Surger,1,1.5
+Hunter,Desert Spear,1,1.5
+Neutral,Wrapped Golem,1,1.5
+Paladin,Pharaoh's Blessing,1,1.5
+Rogue,Pharaoh Cat,1,1.5
+Warlock,Riftcleaver,1,1.5
+Shaman,Volcano,1,1.5
+Hunter,Jeweled Macaw,1,1.5
+Hunter,Crackling Razormaw,1,1.5
+Mage,Primordial Glyph,1,1.5
+Neutral,Primordial Drake,1,1.5
+Priest,Free From Amber,1,1.5
+Paladin,Aldor Peacekeeper,2,1.5
+Warrior,Arathi Weaponsmith,2,1.5
+Paladin,Argent Protector,2,1.5
+Priest,Cabal Shadow Priest,2,1.5
+Hunter,Freezing Trap,2,1.5
+Rogue,Kidnapper,2,1.5
+Rogue,SI:7 Agent,2,1.5
+Hunter,Unleash the Hounds,2,1.5
+Rogue,Assassinate,2,1.5
+Rogue,Backstab,2,1.5
+Mage,Frostbolt,2,1.5
+Shaman,Hex,2,1.5
+Priest,Holy Nova,2,1.5
+Mage,Water Elemental,2,1.5
+Paladin,Keeper of Uldaman,2,1.5
+Hunter,Candleshot,2,1.5
+Neutral,Fungalmancer,2,1.5
+Warlock,Kobold Librarian,2,1.5
+Paladin,Unidentified Maul,2,1.5
+Hunter,Springpaw,2,1.5
+Druid,Mark of the Loa,2,1.5
+Hunter,Baited Arrow,2,1.5
+Mage,Blast Wave,2,1.5
+Warrior,Dragon Roar,2,1.5
+Hunter,Hunter's Pack,2,1.5
+Mage,Puzzle Box of Yogg-Saron,2,1.5
+Neutral,Pit Crocolisk,2,1.5
+Priest,Psychopomp,2,1.5
+Rogue,Bazaar Mugger,2,1.5
+Shaman,EVIL Totem,2,1.5
+Warlock,Sinister Deal,2,1.5
+Warlock,Neferset Thrasher,2,1.5
+Warlock,Diseased Vulture,2,1.5
+Warrior,Frightened Flunky,2,1.5
+Warrior,Bloodsworn Mercenary,2,1.5
+Paladin,Dinosize,2,1.5
+Paladin,Hydrologist,2,1.5
+Neutral,Stonehill Defender,2,1.5
+Rogue,Envenom Weapon,2,1.5
+Paladin,Lost in the Jungle,2,1.5
+Druid,Ancient of War,2,2.5
+Warlock,Bane of Doom,2,2.5
+Hunter,Deadly Shot,2,2.5
+Rogue,Defias Ringleader,2,2.5
+Druid,Druid of the Claw,2,2.5
+Hunter,Explosive Shot,2,2.5
+Shaman,Lightning Storm,2,2.5
+Hunter,Snake Trap,2,2.5
+Warlock,Twisting Nether,2,2.5
+Warlock,Dread Infernal,2,2.5
+Warlock,Hellfire,2,2.5
+Priest,Northshire Cleric,2,2.5
+Rogue,Tomb Pillager,2,2.5
+Warlock,Dark Peddler,2,2.5
+Warrior,Obsidian Destroyer,2,2.5
+Warrior,Fierce Monkey,2,2.5
+Druid,Branching Paths,2,2.5
+Paladin,Call to Arms,2,2.5
+Warrior,Gemstudded Golem,2,2.5
+Warlock,Hooked Reaver,2,2.5
+Warlock,Lesser Amethyst Spellstone,2,2.5
+Hunter,Lesser Emerald Spellstone,2,2.5
+Warlock,Vulgar Homunculus,2,2.5
+Paladin,Farraki Battleaxe,2,2.5
+Paladin,A New Challenger...,2,2.5
+Druid,BEEEES!!!,2,2.5
+Mage,Arcane Flakmage,2,2.5
+Neutral,Vulpera Scoundrel,2,2.5
+Neutral,History Buff,2,2.5
+Paladin,Subdue,2,2.5
+Rogue,Clever Disguise,2,2.5
+Shaman,Sandstorm Elemental,2,2.5
+Shaman,Earthquake,2,2.5
+Druid,Tortollan Forager,2,2.5
+Neutral,Fire Plume Phoenix,2,2.5
+Rogue,Hallucination,2,2.5
+Warlock,Flame Imp,3,2.5
+Neutral,Argent Commander,3,2.5
+Priest,Auchenai Soulpriest,3,2.5
+Neutral,Dark Iron Dwarf,3,2.5
+Mage,Kirin Tor Mage,3,2.5
+Neutral,Sea Giant,3,2.5
+Priest,Shadow Madness,3,2.5
+Mage,Sorcerer's Apprentice,3,2.5
+Neutral,Spellbreaker,3,2.5
+Priest,Temple Enforcer,3,2.5
+Warrior,Arcanite Reaper,3,2.5
+Warrior,Execute,3,2.5
+Warrior,Kor'kron Elite,3,2.5
+Priest,Power Word: Shield,3,2.5
+Priest,Shadow Word: Pain,3,2.5
+Rogue,Plaguebringer,3,2.5
+Druid,Mounted Raptor,3,2.5
+Rogue,Unearthed Raptor,3,2.5
+Shaman,Crushing Hand,3,2.5
+Paladin,Crystal Lion,3,2.5
+Rogue,Elven Minstrel,3,2.5
+Mage,Leyline Manipulator,3,2.5
+Neutral,Plated Beetle,3,2.5
+Neutral,Stoneskin Basilisk,3,2.5
+Neutral,Violet Wurm,3,2.5
+Hunter,Headhunter's Hatchet,3,2.5
+Mage,Pyromaniac,3,2.5
+Mage,Daring Fire-Eater,3,2.5
+Priest,Auchenai Phantasm,3,2.5
+Rogue,Gurubashi Hypemon,3,2.5
+Warrior,Sul'thraze,3,2.5
+Hunter,Ramkahen Wildtamer,3,2.5
+Neutral,Quicksand Elemental,3,2.5
+Paladin,Sandwasp Queen,3,2.5
+Priest,Grandmummy,3,2.5
+Priest,Sandhoof Waterbearer,3,2.5
+Mage,Arcanologist,3,2.5
+Shaman,Primalfin Totem,3,2.5
+Mage,Flame Geyser,3,2.5
+Mage,Steam Surger,3,2.5
+Priest,Crystalline Oracle,3,2.5
+Priest,Radiant Elemental,3,2.5
+Priest,Curious Glimmerroot,3,2.5
+Priest,Tortollan Shellraiser,3,2.5
+Neutral,Tar Creeper,3,2.5
+Mage,Shimmering Tempest,3,2.5
+Neutral,Amani Berserker,3,3.5
+Hunter,Gladiator's Longbow,3,3.5
+Warrior,Slam,3,3.5
+Druid,Wrath,3,3.5
+Druid,Starfall,3,3.5
+Priest,Thoughtsteal,3,3.5
+Shaman,Flametongue Totem,3,3.5
+Warlock,Mortal Coil,3,3.5
+Druid,Raven Idol,3,3.5
+Mage,Forgotten Torch,3,3.5
+Rogue,Pit Snake,3,3.5
+Druid,Lesser Jasper Spellstone,3,3.5
+Mage,Raven Familiar,3,3.5
+Hunter,Wandering Monster,3,3.5
+Druid,Savage Striker,3,3.5
+Priest,Mass Hysteria,3,3.5
+Shaman,Rain of Toads,3,3.5
+Hunter,Swarm of Locusts,3,3.5
+Mage,Flame Ward,3,3.5
+Priest,Plague of Death,3,3.5
+Rogue,Sahket Sapper,3,3.5
+Shaman,Mogu Fleshshaper,3,3.5
+Warlock,Expired Merchant,3,3.5
+Druid,Living Mana,3,3.5
+Neutral,Charged Devilsaur,3,3.5
+Neutral,Fire Fly,3,3.5
+Warlock,Feeding Time,3,3.5
+Warlock,Chittering Tunneler,3,3.5
+Warrior,Direhorn Hatchling,3,3.5
+Neutral,Blood Knight,4,3.5
+Warrior,Cruel Taskmaster,4,3.5
+Shaman,Feral Spirit,4,3.5
+Shaman,Lightning Bolt,4,3.5
+Rogue,Perdition's Blade,4,3.5
+Shaman,Stormforged Axe,4,3.5
+Neutral,Sunwalker,4,3.5
+Paladin,Sword of Justice,4,3.5
+Shaman,Unbound Elemental,4,3.5
+Neutral,Chillwind Yeti,4,3.5
+Rogue,Deadly Poison,4,3.5
+Rogue,Fan of Knives,4,3.5
+Warrior,Fiery War Axe,4,3.5
+Warlock,Soulfire,4,3.5
+Druid,Starfire,4,3.5
+Warlock,Voidwalker,4,3.5
+Mage,Ethereal Conjurer,4,3.5
+Neutral,Huge Toad,4,3.5
+Priest,Museum Curator,4,3.5
+Priest,Entomb,4,3.5
+Hunter,Cave Hydra,4,3.5
+Rogue,Cavern Shinyfinder,4,3.5
+Mage,Dragon's Fury,4,3.5
+Neutral,Dragonslayer,4,3.5
+Mage,Explosive Runes,4,3.5
+Neutral,Lone Champion,4,3.5
+Paladin,Potion of Heroism,4,3.5
+Neutral,Shroom Brewer,4,3.5
+Priest,Unidentified Elixir,4,3.5
+Druid,Pounce,4,3.5
+Priest,Sand Drudge,4,3.5
+Neutral,Spellzerker,4,3.5
+Paladin,Flash of Light,4,3.5
+Shaman,Totemic Smash,4,3.5
+Neutral,Dragonmaw Scorcher,4,3.5
+Neutral,Mosh'Ogg Announcer,4,3.5
+Neutral,Untamed Beastmaster,4,3.5
+Neutral,Amani War Bear,4,3.5
+Shaman,Big Bad Voodoo,4,3.5
+Druid,Worthy Expedition,4,3.5
+Hunter,Wild Bloodstinger,4,3.5
+Neutral,Neferset Ritualist,4,3.5
+Paladin,Ancestral Guardian,4,3.5
+Paladin,Micro Mummy,4,3.5
+Priest,Holy Ripple,4,3.5
+Priest,Penance,4,3.5
+Rogue,Hooked Scimitar,4,3.5
+Warlock,Impbalming,4,3.5
+Warrior,Tomb Warden,4,3.5
+Rogue,Razorpetal Lasher,4,3.5
+Druid,Shellshifter,4,3.5
+Priest,Shadow Visions,4,3.5
+Neutral,Bittertide Hydra,4,3.5
+Neutral,Nesting Roc,4,3.5
+Shaman,Hot Spring Guardian,4,3.5
+Warrior,Tar Lord,4,3.5
+Paladin,Lightfused Stegodon,4,3.5
+Neutral,Mad Bomber,4,4.5
+Neutral,Scarlet Crusader,4,4.5
+Warlock,Shadowflame,4,4.5
+Neutral,Twilight Drake,4,4.5
+Neutral,Wild Pyromancer,4,4.5
+Neutral,SI:7 Infiltrator,4,4.5
+Druid,Ironbark Protector,4,4.5
+Warlock,Shadow Bolt,4,4.5
+Shaman,Tunnel Trogg,4,4.5
+Neutral,Carnivorous Cube,4,4.5
+Neutral,Corridor Creeper,4,4.5
+Druid,Greedy Sprite,4,4.5
+Druid,Ironwood Golem,4,4.5
+Neutral,Drakkari Trickster,4,4.5
+Paladin,Zandalari Templar,4,4.5
+Warlock,Shriek,4,4.5
+Warlock,Blood Troll Sapper,4,4.5
+Warrior,Emberscale Drake,4,4.5
+Neutral,Half-Time Scavenger,4,4.5
+Neutral,Ticket Scalper,4,4.5
+Neutral,Sightless Ranger,4,4.5
+Neutral,Regeneratin' Thug,4,4.5
+Neutral,Linecracker,4,4.5
+Druid,Ironhide Direhorn,4,4.5
+Shaman,Haunting Visions,4,4.5
+Druid,Crystal Merchant,4,4.5
+Hunter,Scarlet Webweaver,4,4.5
+Mage,Dune Sculptor,4,4.5
+Neutral,Bone Wraith,4,4.5
+Neutral,Golden Scarab,4,4.5
+Neutral,Candletaker,4,4.5
+Paladin,Brazen Zealot,4,4.5
+Priest,Wretched Reclaimer,4,4.5
+Warrior,Armored Goon,4,4.5
+Druid,Verdant Longneck,4,4.5
+Neutral,Volcanosaur,4,4.5
+Warlock,Tar Lurker,4,4.5
+Neutral,Eggnapper,4,4.5
+Warrior,Molten Blade,4,4.5
+Paladin,Equality,5,4.5
+Rogue,Betrayal,5,4.5
+Neutral,Dire Wolf Alpha,5,4.5
+Shaman,Doomhammer,5,4.5
+Shaman,Earth Shock,5,4.5
+Neutral,Earthen Ring Farseer,5,4.5
+Neutral,Faerie Dragon,5,4.5
+Priest,Holy Fire,5,4.5
+Neutral,Knife Juggler,5,4.5
+Shaman,Lava Burst,5,4.5
+Mage,Mirror Entity,5,4.5
+Warrior,Mortal Strike,5,4.5
+Rogue,Patient Assassin,5,4.5
+Hunter,Scavenging Hyena,5,4.5
+Neutral,Stampeding Kodo,5,4.5
+Neutral,Violet Teacher,5,4.5
+Neutral,Acidic Swamp Ooze,5,4.5
+Shaman,Bloodlust,5,4.5
+Paladin,Hammer of Wrath,5,4.5
+Druid,Savage Roar,5,4.5
+Neutral,Stormwind Champion,5,4.5
+Mage,Animated Armor,5,4.5
+Priest,Excavated Evil,5,4.5
+Shaman,Rumbling Elemental,5,4.5
+Neutral,Cursed Disciple,5,4.5
+Paladin,Drygulch Jailor,5,4.5
+Druid,Grizzled Guardian,5,4.5
+Rogue,Lesser Onyx Spellstone,5,4.5
+Neutral,Spiteful Summoner,5,4.5
+Priest,Twilight Acolyte,5,4.5
+Warrior,Unidentified Shield,5,4.5
+Neutral,Void Ripper,5,4.5
+Neutral,Cheaty Anklebiter,5,4.5
+Hunter,Bloodscalp Strategist,5,4.5
+Mage,Scorch,5,4.5
+Paladin,Spirit of the Tiger,5,4.5
+Warlock,Demonbolt,5,4.5
+Warrior,Devastate,5,4.5
+Neutral,Banana Buffoon,5,4.5
+Neutral,Arena Fanatic,5,4.5
+Shaman,Bog Slosher,5,4.5
+Mage,Tortollan Pilgrim,5,4.5
+Neutral,Wasteland Assassin,5,4.5
+Neutral,Temple Berserker,5,4.5
+Neutral,Injured Tol'vir,5,4.5
+Warlock,Plague of Flames,5,4.5
+Warrior,Plague of Wrath,5,4.5
+Neutral,Golakka Crawler,5,4.5
+Neutral,Stubborn Gastropod,5,4.5
+Warrior,Ornery Direhorn,5,4.5
+Neutral,Bloodsail Raider,5,5.5
+Druid,Nourish,5,5.5
+Neutral,Big Game Hunter,5,5.5
+Neutral,Faceless Manipulator,5,5.5
+Hunter,Hunter's Mark,5,5.5
+Hunter,Tundra Rhino,5,5.5
+Neutral,Tomb Spider,5,5.5
+Neutral,Djinni of Zephyrs,5,5.5
+Neutral,Wobbling Runts,5,5.5
+Warrior,Kobold Barbarian,5,5.5
+Priest,Psionic Probe,5,5.5
+Neutral,Mosh'ogg Enforcer,5,5.5
+Neutral,Belligerent Gnome,5,5.5
+Warlock,Reckless Diretroll,5,5.5
+Neutral,Rabble Bouncer,5,5.5
+Hunter,Spirit of the Lynx,5,5.5
+Mage,Spirit of the Dragonhawk,5,5.5
+Mage,Splitting Image,5,5.5
+Rogue,Spirit of the Shark,5,5.5
+Shaman,Likkim,5,5.5
+Warlock,Soulwarden,5,5.5
+Warlock,Spirit of the Bat,5,5.5
+Neutral,Shieldbreaker,5,5.5
+Neutral,Rumbletusk Shaker,5,5.5
+Neutral,Former Champ,5,5.5
+Warrior,Smolderthorn Lancer,5,5.5
+Druid,Overflow,5,5.5
+Druid,Garden Gnome,5,5.5
+Mage,Cloud Prince,5,5.5
+Neutral,Jar Dealer,5,5.5
+Neutral,Wasteland Scorpid,5,5.5
+Neutral,Fishflinger,5,5.5
+Neutral,Murmy,5,5.5
+Neutral,Sunstruck Henchman,5,5.5
+Neutral,Khartut Defender,5,5.5
+Neutral,Dwarven Archaeologist,5,5.5
+Neutral,Bug Collector,5,5.5
+Shaman,Splitting Axe,5,5.5
+Shaman,Plague of Murlocs,5,5.5
+Warrior,Into the Fray,5,5.5
+Neutral,Glacial Shard,5,5.5
+Neutral,Gluttonous Ooze,5,5.5
+Neutral,Acolyte of Pain,6,5.5
+Warrior,Armorsmith,6,5.5
+Paladin,Avenging Wrath,6,5.5
+Warrior,Battle Rage,6,5.5
+Mage,Counterspell,6,5.5
+Neutral,Crazed Alchemist,6,5.5
+Neutral,Defender of Argus,6,5.5
+Neutral,Doomsayer,6,5.5
+Hunter,Explosive Trap,6,5.5
+Neutral,Frost Elemental,6,5.5
+Neutral,Harvest Golem,6,5.5
+Neutral,Injured Blademaster,6,5.5
+Druid,Keeper of the Grove,6,5.5
+Paladin,Lay on Hands,6,5.5
+Priest,Lightspawn,6,5.5
+Neutral,Loot Hoarder,6,5.5
+Shaman,Mana Tide Totem,6,5.5
+Priest,Mass Dispel,6,5.5
+Rogue,Master of Disguise,6,5.5
+Neutral,Pint-Sized Summoner,6,5.5
+Neutral,Silver Hand Knight,6,5.5
+Neutral,Silvermoon Guardian,6,5.5
+Mage,Spellbender,6,5.5
+Neutral,Stranglethorn Tiger,6,5.5
+Neutral,Sunfury Protector,6,5.5
+Warrior,Upgrade!,6,5.5
+Neutral,Youthful Brewmaster,6,5.5
+Neutral,Barrens Stablehand,6,5.5
+Mage,Arcane Intellect,6,5.5
+Neutral,Bloodfen Raptor,6,5.5
+Neutral,Boulderfist Ogre,6,5.5
+Warrior,Cleave,6,5.5
+Warrior,Heroic Strike,6,5.5
+Paladin,Light's Justice,6,5.5
+Druid,Mark of the Wild,6,5.5
+Priest,Mind Vision,6,5.5
+Hunter,Multi-Shot,6,5.5
+Neutral,Sen'jin Shieldmasta,6,5.5
+Neutral,Shattered Sun Cleric,6,5.5
+Rogue,Shiv,6,5.5
+Hunter,Desert Camel,6,5.5
+Neutral,Jeweled Scarab,6,5.5
+Neutral,Anubisath Sentinel,6,5.5
+Neutral,Ancient Shade,6,5.5
+Warrior,Cursed Blade,6,5.5
+Mage,Arcane Artificer,6,5.5
+Paladin,Benevolent Djinn,6,5.5
+Neutral,Corrosive Sludge,6,5.5
+Neutral,Fungal Enchanter,6,5.5
+Neutral,Green Jelly,6,5.5
+Neutral,Kobold Monk,6,5.5
+Mage,Lesser Ruby Spellstone,6,5.5
+Paladin,Level Up!,6,5.5
+Mage,Shifting Scroll,6,5.5
+Neutral,Shrieking Shroom,6,5.5
+Mage,Arcanosaur,6,5.5
+Rogue,Serrated Tooth,6,5.5
+Neutral,Snapjaw Shellfighter,6,5.5
+Neutral,Ornery Tortoise,6,5.5
+Neutral,Saronite Taskmaster,6,5.5
+Hunter,Revenge of the Wild,6,5.5
+Druid,Hidden Oasis,6,5.5
+Hunter,Pressure Plate,6,5.5
+Hunter,Hyena Alpha,6,5.5
+Mage,Naga Sand Witch,6,5.5
+Mage,Ancient Mysteries,6,5.5
+Neutral,Beaming Sidekick,6,5.5
+Neutral,Mortuary Machine,6,5.5
+Neutral,Infested Goblin,6,5.5
+Neutral,Body Wrapper,6,5.5
+Paladin,Salhet's Pride,6,5.5
+Priest,Embalming Ritual,6,5.5
+Rogue,Whirlkick Master,6,5.5
+Rogue,Shadow of Death,6,5.5
+Warlock,EVIL Recruiter,6,5.5
+Druid,Elder Longneck,6,5.5
+Neutral,Sated Threshadon,6,5.5
+Priest,Mirage Caller,6,5.5
+Neutral,Frozen Crusher,6,5.5
+Neutral,Giant Wasp,6,5.5
+Hunter,Grievous Bite,6,5.5
+Shaman,Tidal Surge,6,5.5
+Neutral,Igneous Elemental,6,5.5
+Druid,Ancient of Lore,6,6.5
+Neutral,Argent Squire,6,6.5
+Neutral,Cult Master,6,6.5
+Warlock,Demonfire,6,6.5
+Neutral,Emperor Cobra,6,6.5
+Druid,Force of Nature,6,6.5
+Neutral,Ironbeak Owl,6,6.5
+Warlock,Pit Lord,6,6.5
+Neutral,Raging Worgen,6,6.5
+Warrior,Shield Slam,6,6.5
+Neutral,Spiteful Smith,6,6.5
+Shaman,Ancestral Spirit,6,6.5
+Warrior,Commanding Shout,6,6.5
+Shaman,Far Sight,6,6.5
+Warlock,Siegebreaker,6,6.5
+Neutral,Frostwolf Warlord,6,6.5
+Neutral,River Crocolisk,6,6.5
+Warrior,Shield Block,6,6.5
+Druid,Wild Growth,6,6.5
+Hunter,Explorer's Hat,6,6.5
+Neutral,Fossilized Devilsaur,6,6.5
+Shaman,Everyfin is Awesome,6,6.5
+Neutral,Arcane Tyrant,6,6.5
+Druid,Astral Tiger,6,6.5
+Mage,Deck of Wonders,6,6.5
+Warrior,Drywhisker Armorer,6,6.5
+Neutral,Hoarding Dragon,6,6.5
+Neutral,Hungry Ettin,6,6.5
+Priest,Lesser Diamond Spellstone,6,6.5
+Shaman,Murmuring Elemental,6,6.5
+Druid,Oaken Summons,6,6.5
+Warrior,Reckless Flurry,6,6.5
+Neutral,Sleepy Dragon,6,6.5
+Warrior,Overlord's Whip,6,6.5
+Paladin,Bloodclaw,6,6.5
+Druid,Spirit of the Raptor,6,6.5
+Hunter,Master's Call,6,6.5
+Paladin,Immortal Prelate,6,6.5
+Warlock,Grim Rally,6,6.5
+Neutral,Sharkfin Fan,6,6.5
+Neutral,Waterboy,6,6.5
+Neutral,Crowd Roaster,6,6.5
+Rogue,Stolen Steel,6,6.5
+Druid,Anubisath Defender,6,6.5
+Neutral,Phalanx Commander,6,6.5
+Neutral,Spitting Camel,6,6.5
+Neutral,Anubisath Warbringer,6,6.5
+Neutral,Living Monument,6,6.5
+Neutral,Desert Hare,6,6.5
+Shaman,Totemic Surge,6,6.5
+Shaman,Weaponized Wasp,6,6.5
+Neutral,Bright-Eyed Scout,6,6.5
+Shaman,Stone Sentinel,6,6.5
+Warlock,Ravenous Pterrordax,6,6.5
+Rogue,Mimic Pod,6,6.5
+Neutral,Rockpool Hunter,6,6.5
+Neutral,Gentle Megasaur,6,6.5
+Hunter,Terrorscale Stalker,6,6.5
+Hunter,Raptor Hatchling,6,6.5
+Shaman,Spirit Echo,6,6.5
+Neutral,Blazecaller,6,6.5
+Rogue,Cold Blood,7,6.5
+Neutral,Abomination,7,6.5
+Neutral,Abusive Sergeant,7,6.5
+Neutral,Ancient Brewmaster,7,6.5
+Druid,Bite,7,6.5
+Rogue,Blade Flurry,7,6.5
+Paladin,Blessed Champion,7,6.5
+Paladin,Blessing of Wisdom,7,6.5
+Priest,Circle of Healing,7,6.5
+Mage,Cone of Cold,7,6.5
+Neutral,Demolisher,7,6.5
+Neutral,Dread Corsair,7,6.5
+Mage,Ethereal Arcanist,7,6.5
+Neutral,Fen Creeper,7,6.5
+Neutral,Flesheating Ghoul,7,6.5
+Shaman,Forked Lightning,7,6.5
+Paladin,Holy Wrath,7,6.5
+Neutral,Hungry Crab,7,6.5
+Neutral,Imp Master,7,6.5
+Warrior,Inner Rage,7,6.5
+Neutral,Jungle Panther,7,6.5
+Neutral,Lightwarden,7,6.5
+Neutral,Mana Addict,7,6.5
+Neutral,Mana Wraith,7,6.5
+Neutral,Master Swordsmith,7,6.5
+Priest,Mindgames,7,6.5
+Neutral,Murloc Tidecaller,7,6.5
+Neutral,Murloc Warleader,7,6.5
+Paladin,Noble Sacrifice,7,6.5
+Rogue,Preparation,7,6.5
+Neutral,Questing Adventurer,7,6.5
+Neutral,Ravenholdt Assassin,7,6.5
+Paladin,Redemption,7,6.5
+Paladin,Repentance,7,6.5
+Neutral,Secretkeeper,7,6.5
+Priest,Shadowform,7,6.5
+Rogue,Shadowstep,7,6.5
+Priest,Silence,7,6.5
+Neutral,Southsea Captain,7,6.5
+Neutral,Southsea Deckhand,7,6.5
+Mage,Vaporize,7,6.5
+Neutral,Venture Co. Mercenary,7,6.5
+Neutral,Worgen Infiltrator,7,6.5
+Neutral,Young Priestess,7,6.5
+Druid,Mark of Nature,7,6.5
+Warrior,Rampage,7,6.5
+Druid,Soul of the Forest,7,6.5
+Paladin,Righteousness,7,6.5
+Druid,Gift of the Wild,7,6.5
+Mage,Arcane Explosion,7,6.5
+Mage,Arcane Missiles,7,6.5
+Hunter,Arcane Shot,7,6.5
+Neutral,Archmage,7,6.5
+Rogue,Assassin's Blade,7,6.5
+Paladin,Blessing of Might,7,6.5
+Neutral,Bluegill Warrior,7,6.5
+Druid,Claw,7,6.5
+Neutral,Darkscale Healer,7,6.5
+Neutral,Dragonling Mechanic,7,6.5
+Neutral,Elven Archer,7,6.5
+Mage,Frost Nova,7,6.5
+Neutral,Gnomish Inventor,7,6.5
+Paladin,Guardian of Kings,7,6.5
+Neutral,Gurubashi Berserker,7,6.5
+Paladin,Hand of Protection,7,6.5
+Paladin,Holy Light,7,6.5
+Priest,Holy Smite,7,6.5
+Paladin,Humility,7,6.5
+Neutral,Ironforge Rifleman,7,6.5
+Neutral,Ironfur Grizzly,7,6.5
+Neutral,Kobold Geomancer,7,6.5
+Mage,Mirror Image,7,6.5
+Neutral,Murloc Tidehunter,7,6.5
+Neutral,Novice Engineer,7,6.5
+Neutral,Oasis Snapjaw,7,6.5
+Neutral,Ogre Magi,7,6.5
+Neutral,Razorfen Hunter,7,6.5
+Neutral,Reckless Rocketeer,7,6.5
+Shaman,Rockbiter Weapon,7,6.5
+Rogue,Sprint,7,6.5
+Neutral,Stormpike Commando,7,6.5
+Neutral,Stormwind Knight,7,6.5
+Hunter,Tracking,7,6.5
+Neutral,Voodoo Doctor,7,6.5
+Warrior,Whirlwind,7,6.5
+Shaman,Windspeaker,7,6.5
+Neutral,Wolfrider,7,6.5
+Druid,Jungle Moonkin,7,6.5
+Neutral,Summoning Stone,7,6.5
+Neutral,Boisterous Bard,7,6.5
+Rogue,Cheat Death,7,6.5
+Neutral,Dire Mole,7,6.5
+Neutral,Ebon Dragonsmith,7,6.5
+Neutral,Feral Gibberer,7,6.5
+Priest,Gilded Gargoyle,7,6.5
+Neutral,Grand Archivist,7,6.5
+Neutral,Guild Recruiter,7,6.5
+Shaman,Healing Rain,7,6.5
+Neutral,Kobold Apprentice,7,6.5
+Shaman,Kobold Hermit,7,6.5
+Rogue,Kobold Illusionist,7,6.5
+Paladin,Lesser Pearl Spellstone,7,6.5
+Warlock,Possessed Lackey,7,6.5
+Neutral,Rummaging Kobold,7,6.5
+Neutral,Scorp-o-matic,7,6.5
+Neutral,Sewer Crawler,7,6.5
+Rogue,Sudden Betrayal,7,6.5
+Neutral,Toothy Chest,7,6.5
+Neutral,Trogg Gloomeater,7,6.5
+Priest,Twilight's Call,7,6.5
+Rogue,Raiding Party,7,6.5
+Shaman,Spirit of the Frog,7,6.5
+Neutral,Scarab Egg,7,6.5
+Neutral,Booty Bay Bookie,7,6.5
+Neutral,Masked Contender,7,6.5
+Neutral,Ice Cream Peddler,7,6.5
+Neutral,Soup Vendor,7,6.5
+Druid,Predatory Instincts,7,6.5
+Priest,Spirit of the Dead,7,6.5
+Priest,Grave Horror,7,6.5
+Priest,Regenerate,7,6.5
+Shaman,Wartbringer,7,6.5
+Warrior,Heavy Metal!,7,6.5
+Neutral,Helpless Hatchling,7,6.5
+Neutral,Murloc Tastyfin,7,6.5
+Neutral,Firetree Witchdoctor,7,6.5
+Priest,Seance,7,6.5
+Neutral,Serpent Egg,7,6.5
+Neutral,Generous Mummy,7,6.5
+Neutral,Kobold Sandtrooper,7,6.5
+Neutral,Vilefiend,7,6.5
+Neutral,Blatant Decoy,7,6.5
+Neutral,Mischief Maker,7,6.5
+Rogue,Plague of Madness,7,6.5
+Druid,Evolving Spores,7,6.5
+Neutral,Pterrordax Hatchling,7,6.5
+Druid,Earthen Scales,7,6.5
+Neutral,Ravasaur Runt,7,6.5
+Shaman,Air Elemental,7,6.5
+Mage,Mana Bind,7,6.5
+Rogue,Razorpetal Volley,7,6.5
+Rogue,Obsidian Shard,7,6.5
+Neutral,Tol'vir Stoneshaper,7,6.5
+Neutral,Giant Mastodon,7,6.5
+Neutral,Thunder Lizard,7,6.5
+Neutral,Emerald Hive Queen,7,6.5
+Neutral,Emerald Reaver,7,6.5
+Neutral,Stegodon,7,6.5
+Neutral,Stormwatcher,7,6.5
+Hunter,Tol'vir Warden,7,6.5
+Neutral,Servant of Kalimos,7,6.5
+Neutral,Volatile Elemental,7,6.5
+Mage,Molten Reflection,7,6.5
+Paladin,Primalfin Champion,7,6.5
+Paladin,Adaptation,7,6.5
+Mage,Mana Wyrm,7,7.5
+Neutral,Alarm-o-Bot,7,7.5
+Neutral,Ancient Mage,7,7.5
+Neutral,Angry Chicken,7,7.5
+Neutral,Arcane Golem,7,7.5
+Hunter,Bestial Wrath,7,7.5
+Warlock,Blood Imp,7,7.5
+Neutral,Bloodsail Corsair,7,7.5
+Neutral,Coldlight Seer,7,7.5
+Paladin,Eye for an Eye,7,7.5
+Warlock,Felguard,7,7.5
+Hunter,Flare,7,7.5
+Neutral,Gadgetzan Auctioneer,7,7.5
+Rogue,Headcrack,7,7.5
+Mage,Ice Barrier,7,7.5
+Neutral,Leper Gnome,7,7.5
+Hunter,Misdirection,7,7.5
+Neutral,Mogu'shan Warden,7,7.5
+Neutral,Mountain Giant,7,7.5
+Neutral,Priestess of Elune,7,7.5
+Neutral,Shieldbearer,7,7.5
+Warlock,Summoning Portal,7,7.5
+Neutral,Tauren Warrior,7,7.5
+Neutral,Thrallmar Farseer,7,7.5
+Warlock,Void Terror,7,7.5
+Neutral,Windfury Harpy,7,7.5
+Neutral,Wisp,7,7.5
+Neutral,Young Dragonhawk,7,7.5
+Shaman,Dust Devil,7,7.5
+Priest,Inner Fire,7,7.5
+Priest,Lightwell,7,7.5
+Druid,Savagery,7,7.5
+Warlock,Sense Demons,7,7.5
+Hunter,Snipe,7,7.5
+Neutral,Arcane Devourer,7,7.5
+Shaman,Ancestral Healing,7,7.5
+Neutral,Booty Bay Bodyguard,7,7.5
+Warrior,Charge,7,7.5
+Neutral,Core Hound,7,7.5
+Warlock,Corruption,7,7.5
+Neutral,Dalaran Mage,7,7.5
+Priest,Divine Spirit,7,7.5
+Warlock,Drain Life,7,7.5
+Shaman,Frost Shock,7,7.5
+Neutral,Frostwolf Grunt,7,7.5
+Neutral,Goldshire Footman,7,7.5
+Neutral,Grimscale Oracle,7,7.5
+Druid,Healing Touch,7,7.5
+Druid,Innervate,7,7.5
+Neutral,Lord of the Arena,7,7.5
+Neutral,Magma Rager,7,7.5
+Druid,Moonfire,7,7.5
+Neutral,Murloc Raider,7,7.5
+Neutral,Nightblade,7,7.5
+Neutral,Raid Leader,7,7.5
+Warlock,Sacrificial Pact,7,7.5
+Neutral,Silverback Patriarch,7,7.5
+Rogue,Sinister Strike,7,7.5
+Hunter,Starving Buzzard,7,7.5
+Neutral,Stonetusk Boar,7,7.5
+Warlock,Succubus,7,7.5
+Hunter,Timber Wolf,7,7.5
+Shaman,Totemic Might,7,7.5
+Neutral,War Golem,7,7.5
+Warrior,Warsong Commander,7,7.5
+Shaman,Windfury,7,7.5
+Priest,Radiance,7,7.5
+Hunter,Dart Trap,7,7.5
+Neutral,Murloc Tinyfin,7,7.5
+Neutral,Naga Sea Witch,7,7.5
+Neutral,Gorillabot A-3,7,7.5
+Neutral,Eerie Statue,7,7.5
+Paladin,Anyfin Can Happen,7,7.5
+Paladin,Sacred Trial,7,7.5
+Warlock,Reliquary Seeker,7,7.5
+Warlock,Curse of Rafaam,7,7.5
+Druid,Barkskin,7,7.5
+Warrior,Bladed Gauntlet,7,7.5
+Warlock,Cataclysm,7,7.5
+Warlock,Dark Pact,7,7.5
+Neutral,Dragonhatcher,7,7.5
+Rogue,Evasion,7,7.5
+Neutral,Furbolg Mossbinder,7,7.5
+Warrior,Gather Your Party,7,7.5
+Neutral,Gravelsnout Knight,7,7.5
+Shaman,Lesser Sapphire Spellstone,7,7.5
+Shaman,Primal Talismans,7,7.5
+Hunter,Seeping Oozeling,7,7.5
+Neutral,Shimmering Courser,7,7.5
+Neutral,Silver Vanguard,7,7.5
+Neutral,Sneaky Devil,7,7.5
+Hunter,To My Side!,7,7.5
+Neutral,Wax Elemental,7,7.5
+Shaman,Windshear Stormcaller,7,7.5
+Druid,Stampeding Roar,7,7.5
+Druid,Treespeaker,7,7.5
+Hunter,The Beast Within,7,7.5
+Mage,Elemental Evocation,7,7.5
+Paladin,Time Out!,7,7.5
+Priest,Surrender to Madness,7,7.5
+Rogue,Bloodsail Howler,7,7.5
+Rogue,Cannon Barrage,7,7.5
+Warlock,Void Contract,7,7.5
+Warrior,Spirit of the Rhino,7,7.5
+Neutral,Serpent Ward,7,7.5
+Neutral,Gurubashi Chicken,7,7.5
+Neutral,Gurubashi Offering,7,7.5
+Neutral,Arena Patron,7,7.5
+Neutral,Arena Treasure Chest,7,7.5
+Neutral,Dozing Marksman,7,7.5
+Neutral,Faceless Lurker,7,7.5
+Neutral,Conjured Mirage,7,7.5
+Neutral,Desert Obelisk,7,7.5
+Neutral,Mogu Cultist,7,7.5
+Paladin,Tip the Scales,7,7.5
+Shaman,Fire Plume Harbinger,7,7.5
+Priest,Binding Heal,7,7.5
+Rogue,Biteweed,7,7.5
+Neutral,Devilsaur Egg,7,7.5
+Druid,Giant Anaconda,7,7.5
+Neutral,Tortollan Primalist,7,7.5
+Neutral,Ultrasaur,7,7.5
+Hunter,Stampede,7,7.5
+Hunter,Dinomancy,7,7.5
+Warrior,Explore Un'Goro,7,7.5
+Warrior,Iron Hide,7,7.5
+Warrior,Cornered Sentry,7,7.5
+Warrior,Sudden Genesis,7,7.5
+Neutral,Sabretooth Stalker,7,7.5
+Neutral,Primalfin Lookout,7,7.5
+Warlock,Cruel Dinomancer,7,7.5
+Warlock,Corrupting Mist,7,7.5
+Warlock,Bloodbloom,7,7.5
+Warlock,Lakkari Felhound,7,7.5
+Mage,Archmage Antonidas,101,100.5
+Neutral,Deathwing,101,100.5
+Warrior,Grommash Hellscream,101,100.5
+Paladin,Tirion Fordring,101,100.5
+Neutral,Ysera,101,100.5
+Hunter,Kathrena Winterwisp,101,100.5
+Paladin,Val'anyr,101,100.5
+Hunter,"Halazzi, the Lynx",101,100.5
+Paladin,Sunkeeper Tarim,101,100.5
+Mage,Pyros,101,100.5
+Shaman,"Kalimos, Primal Lord",101,100.5
+Hunter,King Krush,101,101.5
+Warlock,Lord Jaraxxus,101,101.5
+Neutral,Brightwing,101,101.5
+Neutral,Sir Finley Mrrgglton,101,101.5
+Neutral,Arch-Thief Rafaam,101,101.5
+Shaman,"Grumble, Worldshaker",101,101.5
+Warlock,"Rin, the First Disciple",101,101.5
+Mage,Hex Lord Malacrass,101,101.5
+Hunter,Dinotamer Brann,101,101.5
+Mage,Reno the Relicologist,101,101.5
+Neutral,Octosari,101,101.5
+Neutral,Siamat,101,101.5
+Neutral,Zephrys the Great,101,101.5
+Paladin,Sir Finley of the Sands,101,101.5
+Priest,High Priest Amet,101,101.5
+Warrior,Armagedillo,101,101.5
+Neutral,Elise the Trailblazer,101,101.5
+Shaman,Al'Akir the Windlord,102,101.5
+Neutral,Alexstrasza,102,101.5
+Neutral,Baron Geddon,102,101.5
+Neutral,Cairne Bloodhoof,102,101.5
+Druid,Cenarius,102,101.5
+Rogue,Edwin VanCleef,102,101.5
+Neutral,Onyxia,102,101.5
+Neutral,The Black Knight,102,101.5
+Neutral,High Inquisitor Whitemane,102,101.5
+Neutral,Brann Bronzebeard,102,101.5
+Warrior,Geosculptor Yip,102,101.5
+Paladin,Lynessa Sunsorrow,102,101.5
+Rogue,Sonya Shadowdancer,102,101.5
+Warrior,Woecleaver,102,101.5
+Druid,Wardruid Loti,102,101.5
+Priest,"Bwonsamdi, the Dead",102,101.5
+Rogue,"Gral, the Shark",102,101.5
+Neutral,Griftah,102,101.5
+Neutral,Oondasta,102,101.5
+Druid,Elise the Enlightened,102,101.5
+Neutral,Colossus of the Moon,102,101.5
+Warrior,King Mosh,102,101.5
+Priest,Lyra the Sunshard,102,101.5
+Neutral,Gruul,102,102.5
+Neutral,Harrison Jones,102,102.5
+Neutral,Hogger,102,102.5
+Neutral,Leeroy Jenkins,102,102.5
+Priest,Prophet Velen,102,102.5
+Neutral,Reno Jackson,102,102.5
+Neutral,Elise Starseeker,102,102.5
+Druid,"Ixlid, Fungal Lord",102,102.5
+Neutral,Marin the Fox,102,102.5
+Shaman,The Runespear,102,102.5
+Druid,"Gonk, the Raptor",102,102.5
+Mage,"Jan'alai, the Dragonhawk",102,102.5
+Paladin,"Shirvallah, the Tiger",102,102.5
+Paladin,High Priest Thekal,102,102.5
+Shaman,"Krag'wa, the Frog",102,102.5
+Warlock,High Priestess Jeklik,102,102.5
+Warrior,"Akali, the Rhino",102,102.5
+Neutral,King Phaoris,102,102.5
+Shaman,Vessina,102,102.5
+Hunter,Swamp King Dred,102,102.5
+Druid,Tyrantus,102,102.5
+Neutral,Bloodmage Thalnos,103,102.5
+Neutral,Illidan Stormrage,103,102.5
+Neutral,Malygos,103,102.5
+Neutral,Nozdormu,103,102.5
+Neutral,Tinkmaster Overspark,103,102.5
+Mage,Aluneth,103,102.5
+Mage,Dragoncaller Alanna,103,102.5
+Neutral,Master Oakheart,103,102.5
+Warlock,Skull of the Man'ari,103,102.5
+Druid,Twig of the World Tree,103,102.5
+Neutral,Zola the Gorgon,103,102.5
+Warrior,War Master Voone,103,102.5
+Rogue,Captain Hooktusk,103,102.5
+Shaman,Zentimo,103,102.5
+Neutral,Da Undatakah,103,102.5
+Neutral,Mojomaster Zihi,103,102.5
+Rogue,"Anka, the Buried",103,102.5
+Warlock,Dark Pharaoh Tekahn,103,102.5
+Rogue,"Sherazin, Corpse Flower",103,102.5
+Neutral,Spiritsinger Umbra,103,102.5
+Neutral,Captain Greenskin,103,103.5
+Neutral,King Mukla,103,103.5
+Neutral,Lorewalker Cho,103,103.5
+Neutral,Millhouse Manastorm,103,103.5
+Neutral,Nat Pagle,103,103.5
+Neutral,The Beast,103,103.5
+Priest,Dragon Soul,103,103.5
+Neutral,King Togwaggle,103,103.5
+Rogue,Kingsbane,103,103.5
+Hunter,Rhok'delar,103,103.5
+Priest,Temporus,103,103.5
+Neutral,The Darkness,103,103.5
+Priest,Princess Talanji,103,103.5
+Warlock,"Hir'eek, the Bat",103,103.5
+Neutral,"Hakkar, the Soulflayer",103,103.5
+Neutral,Ozruk,103,103.5
+Warlock,Clutchmother Zavas,103,103.5
+Neutral,"Hemet, Jungle Hunter",103,103.5
+Neutral,The Voraxx,103,103.5
