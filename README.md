@@ -1,3 +1,3 @@
-# hsarena-pysim
+# pygain-hs
  
-Python simulator for Hearthstone Arena
+Python Game Interface - Hearthstone
