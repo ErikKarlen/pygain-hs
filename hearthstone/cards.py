@@ -1,5 +1,6 @@
 from urllib.request import Request, urlopen
 import json
+import numpy as np
 import pandas as pd
 
 
@@ -26,6 +27,14 @@ class Cards:
             bucket_cards['cardClass'] = bucket_cards['cardClass'].str.upper()
             self.all_cards_df = pd.merge(self.all_cards_df, bucket_cards, how='outer', on=['cardClass', 'name'])
             self.arena_cards = self.all_cards_df.loc[self.all_cards_df['bucket'].notnull()]
+            buckets = self.arena_cards['bucket'].value_counts()
+            buckets = pd.concat([buckets, self.arena_cards['halfBucket'].value_counts()], axis=1)
+            buckets['bucketSize'] = buckets.apply(lambda row: row.bucket
+                                                  if np.isnan(row.halfBucket)
+                                                  else row.halfBucket, axis=1)
+            del buckets['bucket']
+            del buckets['halfBucket']
+            self.buckets = buckets.copy()
 
     def get_cards(self, card_class=None, cost=None, card_id=None, rarity=None,
                   card_set=None, card_type=None, mechanics=None, attack=None, health=None):
